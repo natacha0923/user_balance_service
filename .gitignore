@@ -1,0 +1,10 @@
+# phpstorm project files
+.idea
+
+# Mac DS_Store Files
+.DS_Store
+
+# pkg files
+pkg
+
+service-data
